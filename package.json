@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fujiwara2020/typescript_training/issues"
   },
-  "homepage": "https://github.com/fujiwara2020/typescript_training#readme"
+  "homepage": "https://github.com/fujiwara2020/typescript_training#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
